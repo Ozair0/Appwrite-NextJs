@@ -26,7 +26,7 @@ docker run -it --rm ^
     components/Todos.tsx
 ```
 
-### 3: No run NextJs app
+### 3: Now run NextJs app
 ```bash
 npm run dev
 # or
